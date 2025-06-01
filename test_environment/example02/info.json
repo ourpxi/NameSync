@@ -1,0 +1,9 @@
+{
+    "name": "example02",
+    "version": "0.5.9",
+    "title": "example02",
+    "author": "Jean Serrano",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Test example mod for Factorio"
+}

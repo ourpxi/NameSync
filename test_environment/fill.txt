@@ -1,0 +1,2 @@
+This file is to test function process_mods_directory
+Script should output "Skipping 'fill.lua' as it is not a directory."

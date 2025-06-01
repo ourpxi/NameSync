@@ -1,0 +1,1 @@
+This directory emulates a mod folder without a info.json file innit
