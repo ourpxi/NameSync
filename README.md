@@ -1,6 +1,6 @@
 # NameSync
 
-**NameSync** is a simple Python script that renames Factorio mod folders to match the format required by the game. Factorio expects mod folders to be named exactly as `"name_version"` based on their `info.json` file. If this format is not followed, the game may not load the mods correctly.
+**NameSync** is a simple Python script that renames Factorio mod folders to match the format required by the game.
 
 ## 🧩 Why This Exists
 
